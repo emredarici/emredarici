@@ -10,6 +10,8 @@ I am a passionate Game Developer currently studying Digital Game Design. My main
 - Game Design & Mechanics
 
 ## 🚀 Projects
+-[**Chess**](https://github.com/emredarici/Chess)
+ A chess game with all special rules and a chess bot added
 
 - [**EscapeThePrison**](https://github.com/emredarici/EscapeThePrison)  
   A puzzle-based game project developed as a university assignment, focusing on escape room mechanics and player creativity.
@@ -20,8 +22,6 @@ I am a passionate Game Developer currently studying Digital Game Design. My main
 - [**Snake Game**](https://github.com/emredarici/SnakeGames)  
   A modern remake of the classic Snake Game, featuring a nostalgic old TV effect for an authentic retro experience.
 
-- **Japanese-Themed Game** *(Work in Progress)*  
-  Currently designing and developing a Japanese-themed game that blends traditional aesthetics with modern gameplay. This project is in the early stages and will be shared soon!
 
 ## 🌱 Interests
 - Reading books, especially about game design and psychology
