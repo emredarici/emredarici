@@ -10,7 +10,7 @@ I am a passionate Game Developer currently studying Digital Game Design. My main
 - Game Design & Mechanics
 
 ## 🚀 Projects
--[**Chess**](https://github.com/emredarici/Chess)
+- [**Chess**](https://github.com/emredarici/Chess)
  A chess game with all special rules and a chess bot added
 
 - [**EscapeThePrison**](https://github.com/emredarici/EscapeThePrison)  
