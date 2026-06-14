@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emre Darıcı!
 
 ## 🎮 About Me
-I am a passionate Game Developer currently studying Digital Game Design. My main focus is developing engaging and innovative games using the Unity engine with C#. I am always eager to learn new technologies and create immersive gaming experiences.
+I am a passionate Game Developer with a degree in Digital Game Design. My main focus is developing engaging and innovative games using the Unity engine with C#. I am always eager to learn new technologies and create immersive gaming experiences.
 
 ## 🛠️ Skills & Technologies
 - Unity (C#)
