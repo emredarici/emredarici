@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emre Darıcı!
 
 ## 🎮 About Me
-I am a passionate Game Developer currently studying Digital Game Design. My main focus is developing engaging and innovative games using the Unity engine with C#. I am always eager to learn new technologies and improve my skills in game development.
+I am a passionate Game Developer currently studying Digital Game Design. My main focus is developing engaging and innovative games using the Unity engine with C#. I am always eager to learn new technologies and create immersive gaming experiences.
 
 ## 🛠️ Skills & Technologies
 - Unity (C#)
@@ -10,8 +10,11 @@ I am a passionate Game Developer currently studying Digital Game Design. My main
 - Game Design & Mechanics
 
 ## 🚀 Projects
+- [**BetweenVisits**](https://github.com/emredarici/BetweenVisits)  
+  The game project developed as our graduation project, showcasing advanced game mechanics and innovative gameplay design.
+
 - [**Chess**](https://github.com/emredarici/Chess)     
- A chess game with all special rules and a chess bot added
+  A chess game with all special rules and a chess bot added
 
 - [**EscapeThePrison**](https://github.com/emredarici/EscapeThePrison)  
   A puzzle-based game project developed as a university assignment, focusing on escape room mechanics and player creativity.
